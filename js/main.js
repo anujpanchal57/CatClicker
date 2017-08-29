@@ -7,7 +7,7 @@ $('#cat').click(function() {
     count++;
 
     //Prints out the count in the console
-    // console.log(count);
+    console.log(count);
 
     // Shows the number of times the button has been clicked
     document.getElementById('count').innerHTML = count;
